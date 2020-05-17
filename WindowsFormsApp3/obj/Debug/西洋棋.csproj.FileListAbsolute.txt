@@ -1,0 +1,14 @@
+C:\Users\hyakugen\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\hyakugen\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\hyakugen\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\hyakugen\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.chessboard.resources
+C:\Users\hyakugen\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\hyakugen\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\西洋棋.csproj.GenerateResource.cache
+C:\Users\hyakugen\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\西洋棋.csproj.CoreCompileInputs.cache
+C:\Users\hyakugen\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\hyakugen\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\hyakugen\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\西洋棋.csprojAssemblyReference.cache
+C:\Users\hyakugen\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ChessGame.resources
+C:\Users\hyakugen\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.PawnChangeJob.resources
+E:\西洋棋\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\西洋棋\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
